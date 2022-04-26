@@ -1,0 +1,72 @@
+<html>
+	<head>
+		<title>
+			KFC-Productos
+		</title>
+		<link rel="shorcut icon" href="kfc.png">	 
+   </head>
+   <body background="fondovino.jpg">
+      <img src=KFCLOGO1.png width="350" height ="200">
+	  <h1 align="center">
+	    <font color="white" size="6" face="tahoma">
+		     KENTUCKY FRIED CHICKEN
+		</font>
+      </h1>
+	</head>
+	<body background="fondovino.jpg">
+		 <img src=KFCLOGO1.png width="350" height ="200">
+	  <h1 align="center">
+	    <font color="white" size="6" face="tahoma">
+		     KENTUCKY FRIED CHICKEN
+		</font>
+      </h1>
+		<hr>
+		<br>
+		<br>
+		<table align="center" border="2" width="90%"
+		border color="050100">
+			<tr text="white">
+				<th align="center" bgcolor="D15536">Producto</th>
+				<th align="center" bgcolor="D15536">Imagen</th>
+				<th align="center" bgcolor="D15536">Precio</th>
+			</tr>
+			<tr>
+				<td align="center" bgcolor="EB6645">Pollo</td>
+				<td align="center" bgcolor="EB6645"><img src=pollo.jpeg width="300" height="250"></td>
+				<td align="center" bgcolor="EB6645">79.80</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor="EB6645">Soda</td>
+				<td align="center" bgcolor="EB6645"><img src=soda.jpg width="300" height="250"></td>
+				<td align="center" bgcolor="EB6645">20.50</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor="EB6645">Papas</td>
+				<td align="center" bgcolor="EB6645"><img src=papas.jpg width="300" height="250"></td>
+				<td align="center" bgcolor="EB6645">10.00</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor="EB6645">Dulce</td>
+				<td align="center" bgcolor="EB6645"><img src=dulce.png width="300" height="250"></td>
+				<td align="center" bgcolor="EB6645">25.60</td>
+			</tr>
+			
+		</table>
+		<br>
+		<br>
+		<table align="center" border="0" width="90%">
+			<tr>
+				<td align="center"><A href="principal.html">
+					<img src=principal.png></A></td>
+				<td align="center"><A href="historia.html">
+					<img src=historia.png></A></td>
+				<td align="center"><A href="productos.html">
+					<img src=productos.png></A></td>
+				<td align="center"><A href="contacto.html">
+					<img src=contacto.png></A></td>
+			</tr>
+		</table>
+	
+	</body>
+
+</html>

@@ -1,0 +1,178 @@
+   body{
+	background:#34495E ;
+}
+h1{
+	color: #641E16 ;
+	font-Family: Arial ;
+	Font-size: 50px;
+	text-align: center;
+}
+P{
+	color: #641E16 ;
+	font-Family: Arial ;
+	Font-size: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+
+}
+
+table{
+	color: #FE2E2E;
+	font-family: Arial;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	border: 2;
+	width: 90%;
+	border-color:#8B0000;
+	border-style: solid;
+	
+}
+
+tr{
+	color:#FE2E2E;
+	font-family: Arial;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	border: 2;
+	border-color:#8B0000;
+	border-style: solid;
+}
+
+th{
+	text-align:center;
+	background:#EB6645;
+}
+tr{
+	text-align:center;
+	background:#EB6645;
+}
+/*Esta clase es para quitar el borde y fondo a las tablas*/
+.sin{
+	border-style: transparent;
+	border: 0;
+	background-color: transparent;
+}
+/*Esta clase es para las imagenes de 200 por 100*/
+.size
+{
+	width: 200;
+	height: 100;
+	}
+/*Esta clase es para el logo*/
+.logo
+{
+	width: 350;
+	height: 200;
+}
+/*Esta clase es para el tamaño de la historia*/
+.letra
+{
+	color: white ;
+	font-family: Arial;
+	font-size: 15px;
+	text-align: center;
+}
+.titulo
+{
+    color: black ;
+	font-family: Arial;
+	font-size: 20px;
+	text-align: center;
+}
+.video
+{
+	width: 560; 
+	height: 315;
+}
+/*Esta clase es para el título y logo*/
+.div1{
+	background: linear-gradient(to bottom, #922B21, #FDFEFE);
+	border-radius:20px;
+	border: 1px solid #2E4053;
+}
+/*Esta clase es para la tabla*/
+.div2{
+	background:  linear-gradient(to bottom,#D35400, #F4D03F);
+	border: 1px solid #2E4053;
+}
+/*Esta clase es para los iconos*/
+.div3{
+	background: linear-gradient(to bottom,#34495E, #F4F6F7);
+	border: 1px solid #2E4053;
+}
+/*Esta clase es para el párrafo de datos*/
+.div4{ 
+	background: linear-gradient(to bottom,#F8F9F9, #FDFEFE);
+
+}
+.caja{
+	height: 300px;
+	width: 250px;
+	background: #BFC9CA;
+	border: 1px solid #eee;
+	margin: 5px; 
+	color:black;
+	text-align:center;
+	font-family: "Lato", sans-serif;
+	display:inline-block;
+}
+.caja:hover{
+	/*Agregar sombra al div*/
+	/*         x y radio color*/
+	box-shadow:o o 10px red;
+	/* Cambia la escala de tamaño de la caja*/
+	transform: scale(1.3);
+}
+.caja-texto{
+	padding-bottom:5px;
+	padding-top:2px;
+	font-size:30px;
+	color:black;
+	font-weight:bold;
+}
+.texto-adicional{
+	padding-top:5px;
+	font-size:25px;
+}
+@font-face{
+	font-family: "mifuente";
+	src: url(MorningRainbow.ttf);
+}
+
+#fuente-google{
+	font-family: 'Oswald', sans-serif;
+}
+
+#fuente-morning{
+	font-family: "mifuente";
+}
+/* Esta clase es para el mapa*/
+.div5{
+	
+}
+
+.caja1{
+	
+	background: #BFC9CA;
+	border: 1px solid #eee;
+	margin: 5px; 
+	color:black;
+	text-align:center;
+	font-family: "Lato", sans-serif;
+	display:inline-block;
+}
+.caja1:hover{
+	/*Agregar sombra al div*/
+	/*         x y radio color*/
+	box-shadow:o o 10px red;
+	/* Cambia la escala de tamaño de la caja*/
+	transform: scale(1.3);
+
+
+	
+	
